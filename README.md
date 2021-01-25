@@ -1,8 +1,7 @@
 # Oasis Api Hubs
-## 产品说明书
-## 产品名称
+## 官网
     Oasis Api Hubs - OAHubs.com
-## 产品定位
+## 定位
     - 轻量级API网关引擎；
     - 提供API发布、分发与代理服务；
     - 支持API订阅管理、流量统计、负载均衡服务;
