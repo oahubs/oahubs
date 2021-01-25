@@ -17,20 +17,12 @@
 ## OAHubs.com 使用指南
 
 ## OpenApiGateway 安装部署
-1. 部署 Server
-    Ubuntu 20.04
-    cat /etc/issue --查看 ubuntu 版本
-    apt-get update
-    apt-get upgrade
-    (option)apt-get install lrzsz
-
-2. 安装 PHP / MySQL / OpenResty
-    参照 openresty 官网安装：https://openresty.org/en/linux-packages.html
-    cp /usr/local/openresty/nginx/conf/nginx.conf.default /home/nginx.conf.openresty 备份或下载 openresty 原始 nginx.conf
-    参照 php 安装 php php-fpm
-
-3. 安装 OpenApiGateway
-    wget tar && tar zxf tar && ./install.sh
+1. Server Ubuntu 20.04 https://www.ubuntu.com/
+2. OpenResty https://www.openresty.org/
+3. PHP https://www.php.net/
+4. MySQL https://www.mysql.com/
+3. OasisApiHubs https://github.com/oahubs/oahubs/
+待完善：wget tar && tar zxf tar && ./install.sh
 
 ## 感谢
     感谢开源社区，感谢开源产品Apache、Nginx、OpenResty，感谢诸多大神，为我们提供的莫大帮助。
