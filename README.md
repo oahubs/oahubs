@@ -16,12 +16,12 @@
 
 ## OAHubs.com 使用指南
 
-## OpenApiGateway 安装部署
-1. Server Ubuntu 20.04 https://www.ubuntu.com/
-2. OpenResty https://www.openresty.org/
-3. PHP https://www.php.net/
-4. MySQL https://www.mysql.com/
-3. OasisApiHubs https://github.com/oahubs/oahubs/
+## OpenApiGateway 安装部署  
+1. Server Ubuntu 20.04 https://www.ubuntu.com/  
+2. OpenResty https://www.openresty.org/  
+3. PHP https://www.php.net/  
+4. MySQL https://www.mysql.com/  
+3. OasisApiHubs https://github.com/oahubs/oahubs/  
 待完善：wget tar && tar zxf tar && ./install.sh
 
 ## 感谢
